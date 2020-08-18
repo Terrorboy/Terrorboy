@@ -1,6 +1,4 @@
 # 안녕하세요!
-![Terrorboy](https://avatars2.githubusercontent.com/u/5427199?s=96&v=4) 
-
 ![followers](https://img.shields.io/github/followers/Terrorboy?style=social) 
 [![email](https://img.shields.io/badge/email-z9n%40kakao.com-yellow)](mailto:z9n@kakao.com) 
 [![z9n](https://img.shields.io/badge/site-https%3A%2F%2Fz9n.net-green)](https://z9n.net) 
