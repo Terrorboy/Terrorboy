@@ -1,7 +1,8 @@
 # 안녕하세요!
 ![Terrorboy](https://avatars2.githubusercontent.com/u/5427199?s=96&v=4) 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=z9n.Terrorboy)
+![followers](https://img.shields.io/github/followers/Terrorboy?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=z9n.terrorboy)
 
 - mail: z9n@kakao.com
 - site: https://z9n.net  
