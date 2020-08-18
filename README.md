@@ -8,5 +8,5 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=onedark) 
 ![](https://github-readme-stats.vercel.app/api?username=Terrorboy&count_private=true&show_icons=true&theme=onedark)
