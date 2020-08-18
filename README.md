@@ -1,10 +1,10 @@
 # 안녕하세요!
 ![Terrorboy](https://avatars2.githubusercontent.com/u/5427199?s=96&v=4) 
 
-![followers](https://img.shields.io/github/followers/Terrorboy?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=z9n.terrorboy)
+![followers](https://img.shields.io/github/followers/Terrorboy?style=social)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=z9n.terrorboy) 
+![z9n@](https://img.shields.io/badge/email-z9n%40kakao.com-lightgrey)
 
-- mail: z9n@kakao.com
 - site: https://z9n.net  
 　　https://o0o.st
 
