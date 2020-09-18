@@ -3,7 +3,8 @@
 [![z9n](https://img.shields.io/badge/site-https%3A%2F%2Fz9n.net-green)](https://z9n.net) 
 [![o0o](https://img.shields.io/badge/site-https%3A%2F%2Fo0o.st-green)](https://o0o.st)  
 ![followers](https://img.shields.io/github/followers/Terrorboy?style=social) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterrorboy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
   
