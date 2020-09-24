@@ -16,3 +16,9 @@
   
 ◐▅▇█▇▆▆▅▄▇
 ![bg1](https://user-images.githubusercontent.com/5427199/93628873-431c9480-fa22-11ea-9bc3-365a8ad72dca.jpg)
+
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
