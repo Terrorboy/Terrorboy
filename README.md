@@ -24,4 +24,15 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kanginman"><img src="https://avatars0.githubusercontent.com/u/25993329?v=4" width="100px;" alt=""/><br /><sub><b>kanginman</b></sub></a></td>
+    <td align="center"><a href="https://z9n.net"><img src="https://avatars1.githubusercontent.com/u/5427199?v=4" width="100px;" alt=""/><br /><sub><b>Terrorboy</b></sub></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
