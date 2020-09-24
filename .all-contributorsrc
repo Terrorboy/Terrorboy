@@ -1,7 +1,5 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -14,20 +12,6 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": true,
-  "contributors": [
-    {
-      "login": "Terrorboy",
-      "name": "Terrorboy",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/5427199?v=4",
-      "profile": "https://z9n.net",
-      "contributions": [
-        "doc"
-      ]
-    }
-  ],
-  "projectName": "Terrorboy",
-  "projectOwner": "Terrorboy",
-  "repoType": "github",
-  "repoHost": "https://github.com"
+  "skipCi": "true",
+  "contributors": []
 }
