@@ -24,13 +24,16 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kanginman"><img src="https://avatars0.githubusercontent.com/u/25993329?v=4" width="100px;" alt=""/><br /><sub><b>kanginman</b></sub></a></td>
+    <td align="center"><a href="http://gnuboard.com"><img src="https://avatars1.githubusercontent.com/u/1716400?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
     <td align="center"><a href="https://z9n.net"><img src="https://avatars1.githubusercontent.com/u/5427199?v=4" width="100px;" alt=""/><br /><sub><b>Terrorboy</b></sub></a></td>
-    <td align="center"><a href="https://kkame.net"><img src="https://avatars3.githubusercontent.com/u/4939813?v=4" width="100px;" alt=""/><br /><sub><b>KKAME</b></sub></a></td>
     <td align="center"><a href="https://github.com/hoksi"><img src="https://avatars3.githubusercontent.com/u/4138634?v=4" width="100px;" alt=""/><br /><sub><b>Daeseung Han</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kanginman"><img src="https://avatars0.githubusercontent.com/u/25993329?v=4" width="100px;" alt=""/><br /><sub><b>kanginman</b></sub></a></td>
+    <td align="center"><a href="https://kkame.net"><img src="https://avatars3.githubusercontent.com/u/4939813?v=4" width="100px;" alt=""/><br /><sub><b>KKAME</b></sub></a></td>
     <td align="center"><a href="https://github.com/narusas"><img src="https://avatars1.githubusercontent.com/u/1133479?v=4" width="100px;" alt=""/><br /><sub><b>Jisung, Ahn</b></sub></a></td>
     <td align="center"><a href="https://github.com/kagla"><img src="https://avatars1.githubusercontent.com/u/1195054?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
-    <td align="center"><a href="http://gnuboard.com"><img src="https://avatars1.githubusercontent.com/u/1716400?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://curlychoi.dev"><img src="https://avatars0.githubusercontent.com/u/1305855?v=4" width="100px;" alt=""/><br /><sub><b>curlychoi</b></sub></a></td>
   </tr>
 </table>
 
