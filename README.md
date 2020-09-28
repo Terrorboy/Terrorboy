@@ -30,10 +30,10 @@
     <td align="center"><a href="https://github.com/kanginman"><img src="https://avatars0.githubusercontent.com/u/25993329?v=4" width="100px;" alt=""/><br /><sub><b>kanginman</b></sub></a></td>
     <td align="center"><a href="https://kkame.net"><img src="https://avatars3.githubusercontent.com/u/4939813?v=4" width="100px;" alt=""/><br /><sub><b>KKAME</b></sub></a></td>
     <td align="center"><a href="https://github.com/narusas"><img src="https://avatars1.githubusercontent.com/u/1133479?v=4" width="100px;" alt=""/><br /><sub><b>Jisung, Ahn</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kagla"><img src="https://avatars1.githubusercontent.com/u/1195054?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
+    <td align="center"><a href="https://curlychoi.dev"><img src="https://avatars0.githubusercontent.com/u/1305855?v=4" width="100px;" alt=""/><br /><sub><b>curlychoi</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://curlychoi.dev"><img src="https://avatars0.githubusercontent.com/u/1305855?v=4" width="100px;" alt=""/><br /><sub><b>curlychoi</b></sub></a></td>
+    <td align="center"><a href="https://apachezone.com"><img src="https://avatars1.githubusercontent.com/u/3310615?v=4" width="100px;" alt=""/><br /><sub><b>Joo Sung</b></sub></a></td>
   </tr>
 </table>
 
