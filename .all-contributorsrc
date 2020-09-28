@@ -17,12 +17,12 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "kanginman",
-      "name": "kanginman",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/25993329?v=4",
-      "profile": "https://github.com/kanginman",
+      "login": "gnuboard",
+      "name": "kagla",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1716400?v=4",
+      "profile": "http://gnuboard.com",
       "contributions": [
-        "doc"
+        "ideas"
       ]
     },
     {
@@ -35,21 +35,30 @@
       ]
     },
     {
-      "login": "kkame",
-      "name": "KKAME",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/4939813?v=4",
-      "profile": "https://kkame.net",
-      "contributions": [
-        "tool"
-      ]
-    },
-    {
       "login": "hoksi",
       "name": "Daeseung Han",
       "avatar_url": "https://avatars3.githubusercontent.com/u/4138634?v=4",
       "profile": "https://github.com/hoksi",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "kanginman",
+      "name": "kanginman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25993329?v=4",
+      "profile": "https://github.com/kanginman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kkame",
+      "name": "KKAME",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4939813?v=4",
+      "profile": "https://kkame.net",
+      "contributions": [
+        "tool"
       ]
     },
     {
@@ -66,15 +75,6 @@
       "name": "kagla",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1195054?v=4",
       "profile": "https://github.com/kagla",
-      "contributions": [
-        "ideas"
-      ]
-    },
-    {
-      "login": "gnuboard",
-      "name": "kagla",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1716400?v=4",
-      "profile": "http://gnuboard.com",
       "contributions": [
         "ideas"
       ]
