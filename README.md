@@ -30,6 +30,7 @@
     <td align="center"><a href="https://github.com/hoksi"><img src="https://avatars3.githubusercontent.com/u/4138634?v=4" width="100px;" alt=""/><br /><sub><b>Daeseung Han</b></sub></a></td>
     <td align="center"><a href="https://github.com/narusas"><img src="https://avatars1.githubusercontent.com/u/1133479?v=4" width="100px;" alt=""/><br /><sub><b>Jisung, Ahn</b></sub></a></td>
     <td align="center"><a href="https://github.com/kagla"><img src="https://avatars1.githubusercontent.com/u/1195054?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
+    <td align="center"><a href="http://gnuboard.com"><img src="https://avatars1.githubusercontent.com/u/1716400?v=4" width="100px;" alt=""/><br /><sub><b>kagla</b></sub></a></td>
   </tr>
 </table>
 
