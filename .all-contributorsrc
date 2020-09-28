@@ -33,6 +33,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kkame",
+      "name": "KKAME",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4939813?v=4",
+      "profile": "https://kkame.net",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "projectName": "Terrorboy",
