@@ -6,7 +6,21 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterrorboy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> <img height="25" src="https://user-images.githubusercontent.com/5427199/100684136-1212f580-33bd-11eb-943e-cb2cc7420487.png" />
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" />][ci-korea]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mariadb]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][jquery]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />][markdown]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img height="25" src="https://user-images.githubusercontent.com/5427199/100684136-1212f580-33bd-11eb-943e-cb2cc7420487.png" />][gnuboard]
+
+[ci-korea]: https://cikorea.com
+[php]: https://www.php.net/
+[mariadb]: https://mariadb.org/
+[jquery]: https://jquery.com/
+[markdown]: https://en.wikipedia.org/wiki/Markdown
+[github]: https://github.com/
+[gnuboard]: https://sir.kr
   
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=onedark) 
