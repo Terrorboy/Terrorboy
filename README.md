@@ -1,8 +1,8 @@
 # Hello, world! 🌏
 [![email](https://img.shields.io/badge/email-z9n%40kakao.com-yellow)](mailto:z9n@kakao.com)  
-[![z9n](https://img.shields.io/badge/site-https%3A%2F%2Fz9n.net-green)](https://z9n.net) 
-[![o0o](https://img.shields.io/badge/site-https%3A%2F%2Fo0o.st-green)](https://o0o.st)
-[![socket](https://img.shields.io/badge/site-https%3A%2F%2Fsocket.ms-green)](https://socket.ms)  
+[![z9n](https://img.shields.io/badge/site-https%3A%2F%2Fz9n.net-red)](https://z9n.net) 
+[![o0o](https://img.shields.io/badge/site-https%3A%2F%2Fo0o.st-red)](https://o0o.st)
+[![socket](https://img.shields.io/badge/site-https%3A%2F%2Fsocket.ms-red)](https://socket.ms)  
 ![followers](https://img.shields.io/github/followers/Terrorboy?style=social) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterrorboy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
