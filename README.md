@@ -26,7 +26,7 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=onedark) 
 ![](https://github-readme-stats.vercel.app/api?username=Terrorboy&count_private=true&show_icons=true&theme=onedark)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Terrorboy&theme=onedark_duo&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
   
 ◐▅▇█▇▆▆▅▄▇
