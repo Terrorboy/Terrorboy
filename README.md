@@ -1,39 +1,30 @@
-# Hello, world! 🌏
+![followers](https://img.shields.io/github/followers/Terrorboy?style=social) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterrorboy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
+
+# 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+# ⛏Etc
 [![email](https://img.shields.io/badge/email-z9n%40kakao.com-yellow)](mailto:z9n@kakao.com)  
 [![z9n](https://img.shields.io/badge/site-https%3A%2F%2Fz9n.net-red)](https://z9n.net) 
 [![o0o](https://img.shields.io/badge/site-https%3A%2F%2Fo0o.st-red)](https://o0o.st)
 [![socket](https://img.shields.io/badge/site-https%3A%2F%2Fsocket.ms-red)](https://socket.ms)  
-![followers](https://img.shields.io/github/followers/Terrorboy?style=social) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=z9n.Terrorboy)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterrorboy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" />][ci-korea]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mariadb.svg" />][mariadb]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][jquery]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />][markdown]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img height="25" src="https://user-images.githubusercontent.com/5427199/100684136-1212f580-33bd-11eb-943e-cb2cc7420487.png" />][gnuboard]
 
-[ci-korea]: https://cikorea.com
-[php]: https://www.php.net/
-[mariadb]: https://mariadb.org/
-[jquery]: https://jquery.com/
-[markdown]: https://en.wikipedia.org/wiki/Markdown
-[github]: https://github.com/
-[gnuboard]: https://sir.kr
-  
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=onedark) 
-![](https://github-readme-stats.vercel.app/api?username=Terrorboy&count_private=true&show_icons=true&theme=onedark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Terrorboy&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-  
-  
-◐▅▇█▇▆▆▅▄▇
+# 📊GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Terrorboy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Terrorboy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Terrorboy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ◐▅▇█▇▆▆▅▄▇
 ![bg1](https://user-images.githubusercontent.com/5427199/93628873-431c9480-fa22-11ea-9bc3-365a8ad72dca.jpg)
 
-
-# Thanks to 👍
+# 👍 Thanks to
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
