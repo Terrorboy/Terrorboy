@@ -18,11 +18,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Terrorboy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrorboy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Terrorboy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ◐▅▇█▇▆▆▅▄▇
+
+
+# ◐▅▇█▇▆▆▅▄▇
 ![bg1](https://user-images.githubusercontent.com/5427199/93628873-431c9480-fa22-11ea-9bc3-365a8ad72dca.jpg)
+
+
 
 # 👍 Thanks to
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
