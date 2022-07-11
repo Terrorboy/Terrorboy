@@ -96,6 +96,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "tattersoftware",
+      "name": "Tatter Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27238398?v=4",
+      "profile": "https://tattersoftware.com",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "projectName": "Terrorboy",
