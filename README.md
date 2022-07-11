@@ -38,9 +38,11 @@
   <tr>
     <td align="center"><a href="https://apachezone.com"><img src="https://avatars1.githubusercontent.com/u/3310615?v=4" width="100px;" alt=""/><br /><sub><b>Joo Sung</b></sub></a></td>
     <td align="center"><a href="https://github.com/pushwing"><img src="https://avatars0.githubusercontent.com/u/13030572?v=4" width="100px;" alt=""/><br /><sub><b>Jongwon Byun</b></sub></a></td>
+    <td align="center"><a href="https://tattersoftware.com"><img src="https://avatars.githubusercontent.com/u/27238398?v=4" width="100px;" alt=""/><br /><sub><b>Tatter Software</b></sub></a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
